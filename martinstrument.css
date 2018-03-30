@@ -24,3 +24,20 @@
    #canvas{
     float: right;
    }
+   #controls{
+    border: 1px solid #7777FF;
+    border-radius: 14px;
+    background-color: #9999FF;
+   }
+   #controls p{
+    text-align: center;
+   }
+   #samples{
+    width: 33%;
+    border-radius: inherit;
+   }
+   #s-list{
+    height: 400px;
+    width: 200px;
+    overflow-y: scroll;
+   }
