@@ -23,12 +23,14 @@
 #canvas{
  float: right;
 }
+
 #controls{
  border: 1px solid #7777FF;
  border-radius: 14px;
  background-color: #DDDDFF;
- margin-top: 20px;
+ margin-top: 50px;
  font-family: 'Mina', sans-serif;
+ padding: 5px;
 }
 #controls p{
  text-align: center;
@@ -37,9 +39,11 @@
  width: 33%;
  border: 1px solid #7777FF;
  border-radius: inherit;
+ padding: 5px;
 }
 #s-list{
  height: 400px;
  width: 200px;
  overflow-y: scroll;
+ padding: 5px;
 }
