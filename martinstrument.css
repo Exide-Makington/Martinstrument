@@ -1,43 +1,45 @@
-   #title{
-    text-align: center;
-    font-family: 'Mina', sans-serif;
-    font-size: 95px;
-    margin-bottom: -20px;
-   }
-   #title span{
-    font-weight: normal;
-   }
-   #subtitle{
-    text-align: center;
-    font-family: 'Permanent Marker', sans-serif;
-    font-size: 18pt;
-    margin-top: 0;
-   }
-   #face{
-    font-family: 'Mina', sans-serif;
-    height: 400px;
-    width: 362px;
-    background-image: url(m-faces.png);
-    background-repeat: none;
-    margin: 0 auto;
-   }
-   #canvas{
-    float: right;
-   }
-   #controls{
-    border: 1px solid #7777FF;
-    border-radius: 14px;
-    background-color: #9999FF;
-   }
-   #controls p{
-    text-align: center;
-   }
-   #samples{
-    width: 33%;
-    border-radius: inherit;
-   }
-   #s-list{
-    height: 400px;
-    width: 200px;
-    overflow-y: scroll;
-   }
+#title{
+ text-align: center;
+ font-family: 'Mina', sans-serif;
+ font-size: 95px;
+ margin-bottom: -20px;
+}
+#title span{
+ font-weight: normal;
+}
+#subtitle{
+ text-align: center;
+ font-family: 'Permanent Marker', sans-serif;
+ font-size: 18pt;
+ margin-top: 0;
+}
+#face{
+ height: 400px;
+ width: 362px;
+ background-image: url(m-faces.png);
+ background-repeat: none;
+ margin: 0 auto;
+}
+#canvas{
+ float: right;
+}
+#controls{
+ border: 1px solid #7777FF;
+ border-radius: 14px;
+ background-color: #DDDDFF;
+ margin-top: 20px;
+ font-family: 'Mina', sans-serif;
+}
+#controls p{
+ text-align: center;
+}
+#samples{
+ width: 33%;
+ border: 1px solid #7777FF;
+ border-radius: inherit;
+}
+#s-list{
+ height: 400px;
+ width: 200px;
+ overflow-y: scroll;
+}
