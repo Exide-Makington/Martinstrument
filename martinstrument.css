@@ -1,0 +1,26 @@
+   #title{
+    text-align: center;
+    font-family: 'Mina', sans-serif;
+    font-size: 95px;
+    margin-bottom: -20px;
+   }
+   #title span{
+    font-weight: normal;
+   }
+   #subtitle{
+    text-align: center;
+    font-family: 'Permanent Marker', sans-serif;
+    font-size: 18pt;
+    margin-top: 0;
+   }
+   #face{
+    font-family: 'Mina', sans-serif;
+    height: 400px;
+    width: 362px;
+    background-image: url(m-faces.png);
+    background-repeat: none;
+    margin: 0 auto;
+   }
+   #canvas{
+    float: right;
+   }
